@@ -1,5 +1,0 @@
-model_name,fps_mean,fps_min,fps_max,latency_mean (ms),latency_min (ms),latency_max (ms),frame_count
-xception,144.55,109.34,199.73,6.92,5.01,9.15,145
-mobilenetv2,433.47,117.61,997.69,2.31,1.0,8.5,144
-efficientnet_b0,320.82,248.58,499.92,3.12,2.0,4.02,143
-resnet18,243.72,196.73,333.3,4.1,3.0,5.08,119
