@@ -99,8 +99,6 @@ The following figures illustrate class-wise metrics before and after alignment f
 
 The final models were exported to ONNX format and deployed in a real-time facial expression recognition system.
 
-![Real-time App](figure/ss.png)  
-*Real-time emotion recognition from webcam feed.*
 
 **Pipeline:**
 
